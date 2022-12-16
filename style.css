@@ -1,0 +1,15 @@
+body{
+  background-color: black;
+}
+.container {
+    text-align: center;
+}
+.mylist {
+    display: inline-block;
+    text-align: center;
+    color: aliceblue;
+    font-size: large;
+}
+.baslik{
+  color: white;
+}
